@@ -6557,7 +6557,7 @@
 127.0.0.1 pupu.xnhh120.com
 127.0.0.1 push2.eastmoney.com
 127.0.0.1 pv.ldlwdsx.com
-127.0.0.1 vipwm.cc
+127.0.0.1 pv.vipwm.cc
 127.0.0.1 pvstat.baomihua.com
 127.0.0.1 pwbs.l9c4s.cn
 127.0.0.1 py.wikigifth.com
