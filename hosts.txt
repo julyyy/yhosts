@@ -40,8 +40,7 @@
 127.0.0.1 htracker4.zmzfile.com
 127.0.0.1 htracker5.zmzfile.com
 127.0.0.1 file.apicvn.com
-#163
-127.0.0.1 xm.163.com
+
 #-----Test End
 #ios
 255.255.255.255	broadcasthost
@@ -9444,6 +9443,7 @@
 127.0.0.1 sspservice.ad-survey.com
 127.0.0.1 tracking.ad-survey.com
 127.0.0.1 www.ad-survey.com
+127.0.0.1 sspmservice.ad-survey.com
 #ad4game.com
 127.0.0.1 ads.ad4game.com
 127.0.0.1 cdn.ad4game.com
