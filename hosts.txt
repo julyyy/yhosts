@@ -28,6 +28,20 @@
 127.0.0.1 ad.cmvideo.cn
 127.0.0.1 ggic.cmvideo.cn
 127.0.0.1 sdk.adtiming.com
+#yyets
+127.0.0.1 tracker1.zmzfile.com
+127.0.0.1 tracker2.zmzfile.com
+127.0.0.1 tracker3.zmzfile.com
+127.0.0.1 tracker4.zmzfile.com
+127.0.0.1 tracker5.zmzfile.com
+127.0.0.1 htracker1.zmzfile.com
+127.0.0.1 htracker2.zmzfile.com
+127.0.0.1 htracker3.zmzfile.com
+127.0.0.1 htracker4.zmzfile.com
+127.0.0.1 htracker5.zmzfile.com
+127.0.0.1 file.apicvn.com
+#163
+127.0.0.1 xm.163.com
 #-----Test End
 #ios
 255.255.255.255	broadcasthost
@@ -1948,6 +1962,7 @@
 127.0.0.1 ct.niu.xunlei.com
 127.0.0.1 mou.niu.xunlei.com
 127.0.0.1 scene.vip.xunlei.com
+127.0.0.1 advertpay.vip.xunlei.com
 127.0.0.1 sdksitter.m.sjzhushou.com
 127.0.0.1 static.m.sjzhushou.com
 #http://mac.xunlei.com/
@@ -3535,6 +3550,7 @@
 127.0.0.1 ad.shuoshuomi.com
 127.0.0.1 ad.stsywl.com
 127.0.0.1 ad.tatatimes.com
+127.0.0.1 ad.xn--3bs795g.link
 127.0.0.1 ad.wang502.com
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 adeaz.com
@@ -4732,6 +4748,7 @@
 127.0.0.1 gang.rw33.cn
 127.0.0.1 gc.keefung-zs.com
 127.0.0.1 gcm.lhhxlj.com
+127.0.0.1 gdc2091.cc-club.com.cn
 127.0.0.1 gdgy56.com
 127.0.0.1 gfd.huigoushop.com
 127.0.0.1 gg.1whour.com
@@ -5188,6 +5205,7 @@
 127.0.0.1 lhafy.com
 127.0.0.1 lhg.alisinak.com
 127.0.0.1 li.anyysz.com
+127.0.0.1 library.minghui.org
 127.0.0.1 linglong.supersuer.com
 127.0.0.1 lishi.yxbao.com
 127.0.0.1 lishi1.yxbao.com
@@ -5379,6 +5397,7 @@
 127.0.0.1 m.aganj.com
 127.0.0.1 m.agugux.cn
 127.0.0.1 m.ahuac.com
+127.0.0.1 m.ahwczn.cn
 127.0.0.1 m.ailix.cn
 127.0.0.1 m.aiyyu.com
 127.0.0.1 m.ajiez.com
@@ -6418,6 +6437,7 @@
 127.0.0.1 p6.95558000.com
 127.0.0.1 p7.95558000.com
 127.0.0.1 p8.95558000.com
+127.0.0.1 package.minghui.org
 127.0.0.1 pad.zhywyl.cn
 127.0.0.1 page.santc.cn
 127.0.0.1 parallelsdesktop.cn
@@ -6752,6 +6772,7 @@
 127.0.0.1 siyuanmall.com
 127.0.0.1 sizd.6nzev.cn
 127.0.0.1 sizd.chengboke.cn
+127.0.0.1 sizzlejs.com
 127.0.0.1 sj.uukanshu.com
 127.0.0.1 sjbtn.appfh.com
 127.0.0.1 sjj.jsyjwj.com
@@ -6821,6 +6842,7 @@
 127.0.0.1 static.apptrack.cn
 127.0.0.1 static.beilamusi.com
 127.0.0.1 static.img.imagecdn.cn
+127.0.0.1 static.qysyyg.com
 127.0.0.1 static.sellbuyshop.cn
 127.0.0.1 static.zctx8.com
 127.0.0.1 static1.kewaishu.info
@@ -6831,6 +6853,7 @@
 127.0.0.1 stats.cn.ronghub.com
 127.0.0.1 stats.dmp.ghac.cn
 127.0.0.1 stats.feitianma.com
+127.0.0.1 stats.minghui.org
 127.0.0.1 storage.29293.com
 127.0.0.1 su.8881919.cc
 127.0.0.1 sub.alisinak.com
@@ -6910,6 +6933,7 @@
 127.0.0.1 tben.nnchangyi.com
 127.0.0.1 td.xue63.com
 127.0.0.1 te.xclvq.cn
+127.0.0.1 tech.qgdvyvd.cn
 127.0.0.1 teen.77rog.com
 127.0.0.1 tejia.gaibang.fun
 127.0.0.1 tf.caohua.com
@@ -7048,6 +7072,7 @@
 127.0.0.1 v.iche88.cn
 127.0.0.1 v.jntxst.cn
 127.0.0.1 v.kangai100.cn
+127.0.0.1 v.koqz36.com
 127.0.0.1 v.l0yjow.cn
 127.0.0.1 v.lalaxit.cn
 127.0.0.1 v.lalaxqt.cn
@@ -7059,6 +7084,7 @@
 127.0.0.1 v.oq68.com
 127.0.0.1 v.originz.cn
 127.0.0.1 v.qhruixin.cn
+127.0.0.1 v.ql01t4.com
 127.0.0.1 v.qudwrj.cn
 127.0.0.1 v.rxconkz.cn
 127.0.0.1 v.sixiuwl.cn
@@ -7110,6 +7136,7 @@
 127.0.0.1 vnzq.mmpuh.cn
 127.0.0.1 vol.lflili.com
 127.0.0.1 vol.txdwc.cn
+127.0.0.1 voq3450129.y4j32.cn
 127.0.0.1 vp.vw81e.cn
 127.0.0.1 vpgf.qianyilamian.cn
 127.0.0.1 vpn.baolq666.com
@@ -7157,6 +7184,7 @@
 127.0.0.1 wap.txwdn.com
 127.0.0.1 wap.utmei.cn
 127.0.0.1 wapssl.ff113300.com
+127.0.0.1 webservice.fusionsight.cn
 127.0.0.1 weizjzg.com
 127.0.0.1 weld.iefsf.com
 127.0.0.1 weld.uunice.com
@@ -7260,6 +7288,7 @@
 127.0.0.1 www.baigm.com
 127.0.0.1 www.bewaycare.com
 127.0.0.1 www.billionfocus.com
+127.0.0.1 www.biqubao.com
 127.0.0.1 www.bjedpt.com
 127.0.0.1 www.bkdg.net
 127.0.0.1 www.boxercrazy.org
@@ -7280,6 +7309,7 @@
 127.0.0.1 www.day66.com
 127.0.0.1 www.dgfggy.com
 127.0.0.1 www.diediao.com
+127.0.0.1 www.doulaikanapp.com
 127.0.0.1 www.dqsft.com
 127.0.0.1 www.duobaoqj.com
 127.0.0.1 www.eddong.com
@@ -7336,6 +7366,7 @@
 127.0.0.1 www.isitone.com
 127.0.0.1 www.jagcn.com
 127.0.0.1 www.jav23.com
+127.0.0.1 www.javascriptobfuscator.com
 127.0.0.1 www.jcdfdhx.top
 127.0.0.1 www.jfsdiwmnbsk002.top
 127.0.0.1 www.jihehuaban.com
@@ -7380,10 +7411,12 @@
 127.0.0.1 www.lynndollin.com
 127.0.0.1 www.lyztdz.com
 127.0.0.1 www.mbai.cn
+127.0.0.1 www.mccjuhk7632.top
 127.0.0.1 www.meitumq.com
 127.0.0.1 www.mengyuanwei.com
 127.0.0.1 www.mgldzcls.com
 127.0.0.1 www.mie99.net
+127.0.0.1 www.minghui.org
 127.0.0.1 www.mohecm.com
 127.0.0.1 www.mpzw.com
 127.0.0.1 www.nangong2.com
@@ -10452,3 +10485,22 @@
 127.0.0.1 adsmind.gdtimg.com
 #Smartnews
 127.0.0.1 smartnews-ads.com
+#dygang.com/
+127.0.0.1 pc.weizhenwx.com
+127.0.0.1 t.quandangdang.net
+127.0.0.1 jg.wensixuetang.com
+127.0.0.1 v.heygugu.com
+127.0.0.1 www.toujing9.top
+127.0.0.1 www.toujing8.top
+127.0.0.1 www.toujing11.top
+#bt4g.org
+127.0.0.1 acdcdn.com
+127.0.0.1 squeezedthoughtfully.com
+127.0.0.1 sorrowfulchemical.com
+127.0.0.1 regulationprivilegescan.top
+#bd-film.cc
+127.0.0.1 www.sundady.online
+127.0.0.1 show.govjiangsu.cn
+127.0.0.1 pv.dakawm.cc
+127.0.0.1 xzj.kebi1.top
+127.0.0.1 n.35kds.com
