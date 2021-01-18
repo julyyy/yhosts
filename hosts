@@ -1,4 +1,4 @@
-#version=202101171837
+#version=202101171917
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
 #-----Test
 127.0.0.1 at.umeng.com
@@ -5945,6 +5945,7 @@
 127.0.0.1 pupu.xnhh120.com
 127.0.0.1 push2.eastmoney.com
 127.0.0.1 pv.ldlwdsx.com
+127.0.0.1 pv.vipwm.cc
 127.0.0.1 pvstat.baomihua.com
 127.0.0.1 pwbs.l9c4s.cn
 127.0.0.1 py.wikigifth.com
@@ -7008,6 +7009,7 @@
 127.0.0.1 xn--wxtr9fwyxk9c.top
 127.0.0.1 xn--xhq9mt12cf5v.art
 127.0.0.1 xn--xhq9mt12cf5v.ink
+127.0.0.1 xn--xhq9mt12cf5v.xn--io0a7i
 127.0.0.1 xndjh.hebiz.cn
 127.0.0.1 xpe.cxaerp.com
 127.0.0.1 xs.searchacg.org
