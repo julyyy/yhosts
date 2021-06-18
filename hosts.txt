@@ -404,6 +404,7 @@
 127.0.0.1 oc.umeng.com
 127.0.0.1 umeng.com
 127.0.0.1 www.umeng.com
+127.0.0.1 ulogs.umeng.com
 127.0.0.1 alog.umengcloud.com
 127.0.0.1 ex.umengcloud.com
 127.0.0.1 msg.umengcloud.com
@@ -10687,5 +10688,4 @@
 127.0.0.1 tk.anythinktech.com
 127.0.0.1 tkcn.rayjump.com
 127.0.0.1 track.tenjin.com
-127.0.0.1 ulogs.umeng.com
 127.0.0.1 www.tinytapgame.com
