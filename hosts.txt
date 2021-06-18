@@ -3814,6 +3814,7 @@
 127.0.0.1 c.pengmingx.cn
 127.0.0.1 c.piliangzhuce.cn
 127.0.0.1 c.ptffw.net
+127.0.0.1 c.qhruisen.cn
 127.0.0.1 c.qhruixin.cn
 127.0.0.1 c.queene.cn
 127.0.0.1 c.r9uqp.cn
