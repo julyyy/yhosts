@@ -39,7 +39,6 @@
 127.0.0.1 htracker5.zmzfile.com
 127.0.0.1 file.apicvn.com
 #ios
-127.0.0.1 api-access.pangolin-sdk-toutiao.com
 127.0.0.1 ether-pack.pangolin-sdk-toutiao.com
 127.0.0.1 log-api.pangolin-sdk-toutiao.com
 127.0.0.1 p1-be-endcard.pglstatp-toutiao.com
@@ -1518,7 +1517,6 @@
 127.0.0.1 vasapi.rdtuijian.com
 127.0.0.1 info.iciba.com
 #miui-tv
-127.0.0.1 ad.mi.com
 127.0.0.1 mivideo.g.mi.com
 127.0.0.1 bss.pandora.xiaomi.com
 127.0.0.1 de.pandora.xiaomi.com
@@ -7615,7 +7613,6 @@
 127.0.0.1 prod-bid.applovin.com
 127.0.0.1 res1.applovin.com
 127.0.0.1 s2s.adjust.com
-127.0.0.1 s3.pstatp.com
 127.0.0.1 setting.rayjump.com
 127.0.0.1 sf3-ttcdn-tos.pstatp.com
 127.0.0.1 sg01.rayjump.com
