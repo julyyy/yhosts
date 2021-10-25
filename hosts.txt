@@ -1068,6 +1068,7 @@
 0.0.0.0 sdkapp.mobile.sina.cn
 0.0.0.0 sdkclick.mobile.sina.cn
 0.0.0.0 slog.sina.cn
+0.0.0.0 sanme2.lanzoui.com
 0.0.0.0 so.sina.cn
 0.0.0.0 trends.mobile.sina.cn
 0.0.0.0 u1.img.mobile.sina.cn
@@ -1869,6 +1870,7 @@
 #http://m.toutiao.com/
 0.0.0.0 ad.toutiao.com
 0.0.0.0 api-access.pangolin-sdk-toutiao.com
+0.0.0.0 api-access.pangolin-sdk-toutiao-b.com
 0.0.0.0 dm.toutiao.com
 0.0.0.0 zhanzhang.toutiao.com
 0.0.0.0 analytics.snssdk.com
@@ -7586,6 +7588,13 @@
 0.0.0.0 etl-xlmc-ssl.xunlei.com
 0.0.0.0 fangniaowang.net
 #aiclk.com
+0.0.0.0 api.aiclk.com
+0.0.0.0 cdn.aiclk.com
+0.0.0.0 logrvc.aiclk.com
+0.0.0.0 oss.cdn.aiclk.com
+0.0.0.0 rcv.aiclk.com
+0.0.0.0 update0.aiclk.com
+0.0.0.0 sdk-ab-config-.aiclk.com
 0.0.0.0 adv.aiclk.com
 0.0.0.0 game-motivatead.aiclk.com
 0.0.0.0 recv.aiclk.com
