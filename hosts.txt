@@ -3528,7 +3528,7 @@
 0.0.0.0 dai18.mumu01.com
 0.0.0.0 daima1.18tzx.com
 0.0.0.0 dam.zhqryw.cn
-172.0.0.1 dat1.jzjxmj.com
+0.0.0.0 dat1.jzjxmj.com
 0.0.0.0 data.3975.com
 0.0.0.0 db1.fuz.cc
 0.0.0.0 db2.fuz.cc
