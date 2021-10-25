@@ -5092,7 +5092,7 @@
 0.0.0.0 ad-locus.com
 0.0.0.0 api.ad-locus.com
 0.0.0.0 user.ad-locus.com
-27.0.0.1 log.ad-locus.com
+0.0.0.0 log.ad-locus.com
 0.0.0.0 g.log.ad-locus.com
 0.0.0.0 1.ad-locus.com
 0.0.0.0 i.api.ad-locus.com
@@ -5509,7 +5509,6 @@
 0.0.0.0 track.madserving.com
 0.0.0.0 cntrack.madserving.com
 0.0.0.0 clkpremium.madserving.com
-0.0.0.0 ads.static.madserving.com
 0.0.0.0 m.mgogo.com
 0.0.0.0 m1.mgogo.com
 0.0.0.0 mgogo.com
@@ -6692,7 +6691,6 @@
 0.0.0.0 banner.as.admaster.com.cn
 0.0.0.0 banneras.admaster.com.cn
 0.0.0.0 coocaa.admaster.com.cn
-0.0.0.0 fun.adx.admaster.com.cn
 0.0.0.0 hdt.adx.admaster.com.cn
 0.0.0.0 i18q.admaster.com.cn
 0.0.0.0 jice.admaster.com.cn
@@ -6726,7 +6724,6 @@
 0.0.0.0 ue.applovin.com
 0.0.0.0 zn7zcrzms3zdyzvrobkdqdrphkvijejz-a.applovin.com
 0.0.0.0 s.tribalfusion.com
-0.0.0.0 a-stage2.tribalfusion.com
 0.0.0.0 events.tribalfusion.com
 0.0.0.0 ads.tribalfusion.com
 0.0.0.0 a3.tribalfusion.com
@@ -6789,7 +6786,6 @@
 0.0.0.0 logview.uc.alimama.com
 0.0.0.0 ad.bayescom.com
 0.0.0.0 blink.bayescom.com
-0.0.0.0 raddus.bayescom.com
 0.0.0.0 jupiter.bayescom.com
 0.0.0.0 jupiter2.bayescom.com
 0.0.0.0 api.bayescom.com
