@@ -1,4 +1,4 @@
-#version: 202110242326
+#version: 202111082343
 #url=https://github.com/VeleSila/yhosts/blob/master/hosts
 0.0.0.0 adfurikun.jp
 0.0.0.0 aag.yahooapis.jp
@@ -1189,7 +1189,6 @@
 0.0.0.0 bigdata.advmob.cn
 0.0.0.0 bu1.duba.com
 0.0.0.0 bu2.duba.com
-0.0.0.0 cdnimg.liehu.ijinshan.com
 0.0.0.0 d.union.ijinshan.com
 0.0.0.0 dl.union.ijinshan.com
 0.0.0.0 gallery.pandora.xiaomi.com
