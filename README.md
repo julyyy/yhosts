@@ -11,7 +11,7 @@
    的
 hosts文件
 
-openwrt使用/etc/host
+openwrt使用/etc/hosts
 
 ### 下载或使用本项目即视为同意以下使用条款。
 * 此项目仅限于`个人`研究。
