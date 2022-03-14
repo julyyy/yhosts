@@ -1,3 +1,12 @@
+### 20220315备注
+### openwrt使用/etc/hosts
+### 修改/etc/hosts后需重启dnsmasq后才生效
+### /etc/init.d/dnsmasq restart
+### ping
+### 0.0.0.0无法访问
+### 127.0.0.1返回主机
+---------------------
+
 2009-06-06 - 2020-04-18 [Vokins]
 
 2020-04-19 - Current [VeleSila] (4/19/2020为通过QQ获得Vokins授权日）
@@ -10,13 +19,6 @@
 `
    的
 hosts文件
-
-#openwrt使用/etc/hosts
-#修改/etc/hosts后需重启dnsmasq后才生效
-#/etc/init.d/dnsmasq restart
-#ping
-#0.0.0.0无法访问
-#127.0.0.1返回主机
 
 ### 下载或使用本项目即视为同意以下使用条款。
 * 此项目仅限于`个人`研究。
