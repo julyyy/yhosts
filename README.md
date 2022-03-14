@@ -12,6 +12,11 @@
 hosts文件
 
 openwrt使用/etc/hosts
+修改/etc/hosts后需重启dnsmasq后才生效
+/etc/init.d/dnsmasq restart
+ping
+0.0.0.0无法访问
+127.0.0.1返回主机
 
 ### 下载或使用本项目即视为同意以下使用条款。
 * 此项目仅限于`个人`研究。
